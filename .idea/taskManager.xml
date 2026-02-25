@@ -14,6 +14,7 @@
           <option name="description" value="This is demo version of hello tasker" />
           <option name="id" value="d5891419-e43d-4e81-8490-fc0dd3906184" />
           <option name="priority" value="LOW" />
+          <option name="status" value="IN_PROGRESS" />
           <option name="title" value="Hello tasker" />
         </Task>
         <Task>
