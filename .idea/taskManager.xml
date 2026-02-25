@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TaskManagerState">
+    <option name="tasks">
+      <list>
+        <Task>
+          <option name="createdAt" value="1772003340701" />
+          <option name="id" value="b2e750f7-2b88-4b3f-916d-a0899ec96543" />
+          <option name="priority" value="HIGH" />
+          <option name="title" value="Salom xat" />
+        </Task>
+        <Task>
+          <option name="createdAt" value="1772003355642" />
+          <option name="description" value="This is demo version of hello tasker" />
+          <option name="id" value="d5891419-e43d-4e81-8490-fc0dd3906184" />
+          <option name="priority" value="LOW" />
+          <option name="title" value="Hello tasker" />
+        </Task>
+        <Task>
+          <option name="createdAt" value="1772003365285" />
+          <option name="description" value="KAka builder" />
+          <option name="id" value="14e2ab12-2163-438f-8e72-21c98a167e9f" />
+          <option name="title" value="Sama x" />
+        </Task>
+      </list>
+    </option>
+  </component>
+</project>
